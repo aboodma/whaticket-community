@@ -232,7 +232,7 @@ const LoggedInLayout = ({ children }) => {
             noWrap
             className={classes.title}
           >
-            WhaTicket
+            Mira | Whatsapp System
           </Typography>
 
           <div className={classes.themeSwitchContainer}>
